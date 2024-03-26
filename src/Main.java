@@ -1,6 +1,7 @@
 public class Main{
     public static void main(String[] args) {
-        System.out.print("Кукусики!");
+        System.out.println("Кукусики!");
+        System.out.println("Hello hello!");
 
     }
 }
