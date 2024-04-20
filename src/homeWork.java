@@ -13,13 +13,13 @@ public class homeWork {
         System.out.println("Значение переменной с типом float равно " + e);
         System.out.println("Значение переменной с типом double равно " + f);
 
-        float a1 = 27.12F;
-        float b1 = 987.678965549F;
-        double c1 = 2.786;
-        short d1 = 569;
-        short e1 = -159;
-        short g1 = 27897;
-        byte f1 = 67;
+        float q = 27.12F;
+        float w = 987.678965549F;
+        double r = 2.786;
+        short t = 569;
+        short y = -159;
+        short u = 27897;
+        byte i = 67;
 
         byte ludmilaClass = 23;
         byte annaClass = 27;
