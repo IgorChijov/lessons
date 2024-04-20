@@ -62,7 +62,7 @@ public class homeWork {
         short maxLoseWeightPerDay = 500;
         short minDay = 7000 / 500;
         short maxDay = 7000 / 250;
-        System.out.println("При похудении на 250 грамм в день необходимо  " + maxDay + " дней для сброса 7 кг");
+        System.out.println("При похудении на 250 грамм в день необходимо " + maxDay + " дней для сброса 7 кг");
         System.out.println("При похудении на 500 грамм в день необходимо " + minDay + " дней для сброса 7 кг");
 
         long mashaSalary = 67760;
