@@ -57,7 +57,7 @@ public class Main {
             System.out.println("Сейчас в вагоне доступно " +  (vanCapacity - currentPassengers) + " стоячих мест");
         }
         if (currentPassengers <= 60){
-            System.out.println("Сейчас в вагоне доступно " + (vanCapacity - currentPassengers) + " мест, из которых " + ( sittingPlace -currentPassengers) + " сидячих мест, и " + standingPlace + " стоячих мест");
+            System.out.println("Сейчас в вагоне доступно  " + (vanCapacity - currentPassengers) + " мест, из которых " + ( sittingPlace -currentPassengers) + " сидячих мест, и " + standingPlace + " стоячих мест");
         }
         else {
             System.out.println("Вагон полностью заполнен");
