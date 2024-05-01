@@ -15,7 +15,7 @@ public class Main {
         } else if (clientOS == 1 && clientDeviceYear < 2015) {
             System.out.println("Установите облегченную версию для Android по ссылке");
         } else if (clientOS == 1 && clientDeviceYear >= 2015) {
-            System.out.println("Установите версию для Android по ссылке");
+            System.out.println("Установите версию для android по ссылке");
         }
 
         int year = 1900;
